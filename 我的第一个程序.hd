@@ -3,3 +3,4 @@
 <!-- edittype="asr_pro" -->
 <!-- officialLib="[{"id":"154","version":"0.0.3"}]" -->
 <!-- personalLib="[]" -->
+print("hello world")
